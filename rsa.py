@@ -1,3 +1,8 @@
+# Segurança computacional
+# Hanniel Fernando Lopes Saldanha – 180111515
+# José Fortes Neto - 160128331
+
+
 from random import getrandbits, randrange
 from hashlib import sha3_512
 from base64 import b64encode
